@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm [Tên của bạn] 👋
 
-<!--
-**NLHuynh777/NLHuynh777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Computer Engineering student focusing on Embedded Systems & Edge AI.
+- 💡 Passionate about Firmware Development, Embedded Linux, and Deep Learning Model Optimization.
+- 🌱 Currently working on: Edge AI Plant Disease Diagnosis & Automated Treatment System.
+- 💬 Ask me about: `C/C++`, `STM32`, `Linux Kernel/Yocto`, `TensorFlow Lite`.
+- 📫 How to reach me: [nguyenlehuynh1205@gmail.com] 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** C, C++, Python, Dart, Bash
+- **Embedded & Hardware:** STM32, ESP32, Arduino, FreeRTOS.
+- **AI & Edge Computing:** TensorFlow, TFLite, Model Quantization, OpenCV, Tesseract OCR.
+- **Tools & OS:** Linux/WSL2, Git, VS Code, Flutter, Arduino IDE. 
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NLHuynh777&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLHuynh777&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
