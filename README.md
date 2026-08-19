@@ -4,7 +4,7 @@
 - 🎓 Computer Engineering student focusing on Embedded Systems & Edge AI.
 - 💡 Passionate about Firmware Development, Embedded Linux, and Deep Learning Model Optimization.
 - 🌱 Currently working on: Edge AI Plant Disease Diagnosis & Automated Treatment System.
-- 💬 Ask me about: `C/C++`, `STM32`, `Linux Kernel/Yocto`, `TensorFlow Lite`.
+- 💬 Ask me about: `C/C++`, `STM32`, `Arduino`, `ESP32`, `TensorFlow Lite`. `OppenCV`, `Machine Learning`
 - 📫 How to reach me: [nguyenlehuynh1205@gmail.com] 
 
 ---
