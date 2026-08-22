@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack & Tools
 - **Languages:** C, C++, Python, Dart, Bash
 - **Embedded & Hardware:** STM32, ESP32, Arduino, FreeRTOS.
-- **AI & Edge Computing:** TensorFlow, TFLite, Model Quantization, OpenCV, Tesseract OCR.
+- **AI & Edge Computing:** Computer Vision, Machine Learning, Model Quantization, OpenCV, Tesseract OCR.
 - **Tools & OS:** Linux/WSL2, Git, VS Code, Flutter, Arduino IDE. 
 
 ---
