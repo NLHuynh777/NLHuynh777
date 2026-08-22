@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen LE Huynh 👋
+# Hi there, I'm Nguyen Le Huynh 👋
 
 ### 🚀 About Me
 - 🎓 Computer Engineering student focusing on Embedded Systems & Edge AI.
